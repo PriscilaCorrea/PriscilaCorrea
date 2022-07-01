@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ela/dela/ella/she
 **- ⚡ Fun fact: ...
 -->
+
+🌱 Este aqui é meu repositório. Nele tenho vários temas diferentes, como desenvolvimento *FullStack* e Computação Vestível.
+📫 Fale comigo: priscila.correa@outlook.com
+😄 Pronomes: ela/dela/ella/she
