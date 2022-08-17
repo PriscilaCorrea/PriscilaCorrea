@@ -1,8 +1,8 @@
 ### Olá 👋
 
-##Portifólio FullStack: https://priscilacorrea.github.io/
+## Portifólio FullStack: https://priscilacorrea.github.io/
 
-##Sobre este repositório:
+## Sobre este repositório:
  - 🌱 Este aqui é meu repositório. Nele tenho vários temas diferentes, 
 como desenvolvimento *FullStack* e Computação Vestível.
  - 🔭 Atualmente estou trabalhando com desenvolvimento web FullStack.
