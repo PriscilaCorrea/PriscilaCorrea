@@ -11,3 +11,7 @@ como desenvolvimento *FullStack* e Computação Vestível.
  - 📫 Fale comigo: priscila.correa@outlook.com
  - 😄 Pronomes: ela/dela/ella/she
  - ⚡ Jogadora de Zelda e Pokemon nas horas vagas..
+
+Me encontre no...
+ROBLOX: @AmaraAmane
+SCRATCH: LoriLecter
