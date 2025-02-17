@@ -1,7 +1,5 @@
 ### Olá 👋
 
-## Portifólio FullStack: https://priscilacorrea.github.io/
-
 ## Sobre este repositório:
  - 🌱 Este aqui é meu repositório. Nele tenho vários temas diferentes, 
 como desenvolvimento *FullStack* e Computação Vestível.
@@ -12,7 +10,7 @@ como desenvolvimento *FullStack* e Computação Vestível.
  - 😄 Pronomes: ela/dela/ella/she
  - ⚡ Jogadora de Zelda e Pokemon nas horas vagas..
 
-Me encontre no...
-LINKEDIN: https://www.linkedin.com/in/priscila-correa-bs/
-ROBLOX: @AmaraAmane
-SCRATCH: LoriLecter
+## Me encontre no...  
+LINKEDIN: https://www.linkedin.com/in/priscila-correa-bs/  
+ROBLOX: @AmaraAmane  
+SCRATCH: LoriLecter  
